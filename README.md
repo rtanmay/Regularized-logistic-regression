@@ -3,8 +3,8 @@ This program does prediction on different values of lambda(regularized logistic 
 
 Program is written in two languages:
 
-    -->``Octave``
+    -->Octave
     
-    -->``Matlab`` 
+    -->Matlab 
     
 *To study the key  differences in the two.*

@@ -7,4 +7,4 @@ Also the program is written in two languages:
     
     -->Matlab 
     
-*To study the key  differences in the two.*
+To study the key  differences in the two.
